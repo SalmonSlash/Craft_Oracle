@@ -1,0 +1,78 @@
+{"question": "Crafting Table คราฟจากอะไร", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "Furnace คราฟยังไง", "must_contain": [["Blackstone", "Cobblestone", "Cobbled Deepslate"]], "kind": "normal"}
+{"question": "Chest ทำจากอะไร", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "วิธีคราฟ Stick", "must_contain": [["Bamboo", "Planks"]], "kind": "normal"}
+{"question": "how to craft Torch", "must_contain": [["Coal", "Charcoal"]], "kind": "normal"}
+{"question": "what do you need to make a Ladder", "must_contain": ["Stick"], "kind": "normal"}
+{"question": "Bowl ใช้อะไรทำ", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "อยากได้ Bread ต้องใช้อะไร", "must_contain": ["Wheat"], "kind": "normal"}
+{"question": "Cookie คราฟจากอะไร", "must_contain": ["Wheat"], "kind": "normal"}
+{"question": "Cake คราฟยังไง", "must_contain": ["Milk Bucket"], "kind": "normal"}
+{"question": "Bucket ทำจากอะไร", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "วิธีคราฟ Paper", "must_contain": ["Sugar Cane"], "kind": "normal"}
+{"question": "how to craft Book", "must_contain": ["Paper"], "kind": "normal"}
+{"question": "what do you need to make a Bookshelf", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "Clock ใช้อะไรทำ", "must_contain": ["Gold Ingot"], "kind": "normal"}
+{"question": "อยากได้ Compass ต้องใช้อะไร", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "Shears คราฟจากอะไร", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "Flint and Steel คราฟยังไง", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "Fishing Rod ทำจากอะไร", "must_contain": ["Stick"], "kind": "normal"}
+{"question": "วิธีคราฟ Bow", "must_contain": ["Stick"], "kind": "normal"}
+{"question": "how to craft Arrow", "must_contain": ["Flint"], "kind": "normal"}
+{"question": "what do you need to make a Shield", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "Anvil ใช้อะไรทำ", "must_contain": ["Block of Iron"], "kind": "normal"}
+{"question": "อยากได้ Hopper ต้องใช้อะไร", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "Dropper คราฟจากอะไร", "must_contain": ["Cobblestone"], "kind": "normal"}
+{"question": "Dispenser คราฟยังไง", "must_contain": ["Cobblestone"], "kind": "normal"}
+{"question": "Piston ทำจากอะไร", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "วิธีคราฟ Observer", "must_contain": ["Cobblestone"], "kind": "normal"}
+{"question": "how to craft Lever", "must_contain": ["Stick"], "kind": "normal"}
+{"question": "what do you need to make a Redstone Torch", "must_contain": ["Redstone Dust"], "kind": "normal"}
+{"question": "Redstone Lamp ใช้อะไรทำ", "must_contain": ["Redstone Dust"], "kind": "normal"}
+{"question": "อยากได้ Note Block ต้องใช้อะไร", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "Jukebox คราฟจากอะไร", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "Beacon คราฟยังไง", "must_contain": ["Glass"], "kind": "normal"}
+{"question": "Cauldron ทำจากอะไร", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "วิธีคราฟ Brewing Stand", "must_contain": ["Blaze Rod"], "kind": "normal"}
+{"question": "how to craft Iron Bars", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "what do you need to make a Glass Pane", "must_contain": ["Glass"], "kind": "normal"}
+{"question": "Rail ใช้อะไรทำ", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "อยากได้ Minecart ต้องใช้อะไร", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "Lantern คราฟจากอะไร", "must_contain": ["Iron Nugget"], "kind": "normal"}
+{"question": "Campfire คราฟยังไง", "must_contain": ["Stick"], "kind": "normal"}
+{"question": "Smithing Table ทำจากอะไร", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "วิธีคราฟ Stonecutter", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "how to craft Grindstone", "must_contain": ["Stick"], "kind": "normal"}
+{"question": "what do you need to make a Loom", "must_contain": ["String"], "kind": "normal"}
+{"question": "Barrel ใช้อะไรทำ", "must_contain": ["Planks"], "kind": "normal"}
+{"question": "อยากได้ Blast Furnace ต้องใช้อะไร", "must_contain": ["Iron Ingot"], "kind": "normal"}
+{"question": "Smoker คราฟจากอะไร", "must_contain": [["Oak Log", "Oak Wood", "Birch Log"]], "kind": "normal"}
+{"question": "Target คราฟยังไง", "must_contain": ["Redstone Dust"], "kind": "normal"}
+{"question": "Iron Ingot ได้จากการเผาอะไร", "must_contain": [["Iron Ore", "Raw Iron"]], "kind": "normal"}
+{"question": "Raw Gold เผาแล้วได้อะไร", "must_contain": ["Gold"], "kind": "normal"}
+{"question": "how do I smelt Sand", "must_contain": ["Glass"], "kind": "normal"}
+{"question": "Cobblestone เผาได้อะไร", "must_contain": ["Stone"], "kind": "normal"}
+{"question": "เนื้อวัวดิบเผาได้อะไร", "must_contain": [["Cooked", "Steak", "สุก"]], "kind": "normal"}
+{"question": "Charcoal ได้ยังไง", "must_contain": [["Log", "Wood"]], "kind": "normal"}
+{"question": "Diamond Ore คราฟจากอะไร", "must_contain": [["ขุด", "mine", "mined", "mining", "ไม่สามารถคราฟ", "cannot be crafted", "ไม่มีข้อมูล", "don't have"]], "kind": "edge", "note": "non-craftable: answered broadly (mined)"}
+{"question": "Bedrock คราฟยังไง", "must_contain": [["ไม่มีข้อมูล", "ไม่สามารถคราฟ", "cannot be crafted", "don't have", "not enough", "ขุด", "mine", "ไม่พบ"]], "kind": "edge", "note": "non-craftable: answered broadly"}
+{"question": "Dirt คราฟจากอะไร", "must_contain": [["ขุด", "mine", "mined", "ไม่ต้องคราฟ", "ไม่สามารถคราฟ", "cannot be crafted", "ไม่มีข้อมูล"]], "kind": "edge", "note": "non-craftable: answered broadly (mined/found)"}
+{"question": "how do you craft Obsidian", "must_contain": [["lava", "water", "ลาวา", "ขุด", "mine", "mined", "cannot be crafted", "ไม่สามารถคราฟ"]], "kind": "edge", "note": "non-craftable: answered broadly (water+lava)"}
+{"question": "Grass Block คราฟจากอะไร", "must_contain": [["ไม่สามารถคราฟ", "cannot be crafted", "ขุด", "mine", "mined", "ธรรมชาติ", "natural", "Silk Touch", "ไม่มีข้อมูล", "ไม่พบ"]], "kind": "edge", "note": "non-craftable: answered broadly"}
+{"question": "Glass ได้จากการเผาอะไร", "must_contain": [["Sand"]], "kind": "edge", "note": "smelting"}
+{"question": "ราคาบิทคอยน์วันนี้เท่าไหร่", "must_contain": [["เพียงพอ", "enough", "ไม่มีข้อมูล", "don't have", "not enough", "ขออภัย", "ไม่พบ"]], "kind": "edge", "note": "out of domain"}
+{"question": "เมืองหลวงของประเทศไทยคือ", "must_contain": [["เพียงพอ", "enough", "ไม่มีข้อมูล", "don't have", "not enough", "ขออภัย", "ไม่พบ"]], "kind": "edge", "note": "out of domain"}
+{"question": "2 บวก 2 เท่ากับเท่าไหร่", "must_contain": [["เพียงพอ", "enough", "ไม่มีข้อมูล", "don't have", "not enough", "ขออภัย", "ไม่พบ"]], "kind": "edge", "note": "out of domain"}
+{"question": "สวัสดีครับ", "must_contain": [["เพียงพอ", "enough", "ไม่มีข้อมูล", "don't have", "not enough", "ขออภัย", "ไม่พบ", "สวัสดี", "hello", "ช่วย"]], "kind": "edge", "note": "greeting"}
+{"question": "hello", "must_contain": [["เพียงพอ", "enough", "ไม่มีข้อมูล", "don't have", "not enough", "ขออภัย", "ไม่พบ", "hello", "hi", "help"]], "kind": "edge", "note": "greeting; known limitation: no greeting intent routing"}
+{"question": "Stick คราฟได้กี่อันต่อครั้ง", "must_contain": ["4"], "kind": "edge", "note": "yield count"}
+{"question": "คราฟ Torch ครั้งนึงได้กี่อัน", "must_contain": ["4"], "kind": "edge", "note": "yield count"}
+{"question": "Furnace ใช้หินอะไรได้บ้าง", "must_contain": [["Cobblestone", "Blackstone", "Deepslate"]], "kind": "edge", "note": "variants"}
+{"question": "Stick ทำจากไม้ชนิดไหนได้บ้าง", "must_contain": [["Planks", "Bamboo"]], "kind": "edge", "note": "variants"}
+{"question": "how to craft a chest", "must_contain": ["Planks"], "kind": "edge", "note": "english"}
+{"question": "what do I need for a crafting table", "must_contain": ["Planks"], "kind": "edge", "note": "english"}
+{"question": "Furnce คราฟจากอะไร", "must_contain": [["Cobblestone", "Blackstone", "Deepslate"]], "kind": "edge", "note": "typo"}
+{"question": "อะไรที่คราฟจาก cobblestone 8 ก้อน", "must_contain": [["Furnace", "เตา"]], "kind": "edge", "note": "reverse lookup"}
+{"question": "Planks คราฟจากอะไร", "must_contain": [["Log", "Wood", "ไม้"]], "kind": "edge", "note": "intermediate item"}
+{"question": "stick กับ ถ่าน ผสมกันแล้วได้เป็นอะไร", "must_contain": [["Torch", "คบ"]], "kind": "edge", "note": "multi-ingredient combine"}
+{"question": "เหล็ก 3 อัน และ แท่งไม้สอง สามารถทำเครื่องมืออะไรได้บ้าง วัตถุดิบสามารถเหลือได้", "must_contain": [["Pickaxe", "Axe", "เสียม", "ขวาน"]], "kind": "edge", "note": "multi-ingredient: tools from X+Y"}

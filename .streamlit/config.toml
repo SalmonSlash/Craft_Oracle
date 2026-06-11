@@ -1,0 +1,10 @@
+[browser]
+gatherUsageStats = false
+
+[client]
+# hide the dev menu (Rerun / Clear cache / Record / Print) and the Deploy button
+toolbarMode = "viewer"
+
+[theme]
+base = "dark"
+primaryColor = "#5BA23C"

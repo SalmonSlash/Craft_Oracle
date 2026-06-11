@@ -1,0 +1,11 @@
+streamlit>=1.40
+qdrant-client>=1.12
+openai>=1.50
+langchain>=0.3
+langchain-openai>=0.2
+langchain-core>=0.3
+numpy>=1.26
+python-dotenv>=1.0
+requests>=2.32
+ddgs>=9.0
+

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+qdrant_local/
+.venv/
+venv/
+*.log
